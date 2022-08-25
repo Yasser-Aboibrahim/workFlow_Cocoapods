@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
   s.module_name = "SLFramework"
   s.version      = "##VERSION##"
   s.summary      = "A short description of SecLibFramework."
-  s.homepage     = "https://github.vodafone.com/vfcps-analytics/SMAPI_SDK_PROD"
+  s.homepage     = "https://github.com/Yasser-Aboibrahim/workflowTest"
   s.license      = { ##LICENCE## }
   s.author       = { ##AUTHOR## }
   s.platform     = :ios, "10.0"
